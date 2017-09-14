@@ -14,4 +14,4 @@
 
 如图所示：
 
-![step](C:\Users\w\Desktop\Monokai-Sublime\img\step.png)
+![step](https://github.com/hehuiyun/Monokai-Sublime/tree/master/img/step.png)
